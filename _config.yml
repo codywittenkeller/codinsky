@@ -1,0 +1,12 @@
+title: Cody Wittenkeller # your name (or website title) here
+logo: "/images/cody-wittenkeller.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Transportation Enthusiast / Data Scientist / Pen and Paper Hobbyist  
+
+  <br><br>
+  <a href="https://www.linkedin.com/in/codywittenkeller/">View My LinkedIn Profile</a> 
+    <br><br>
+  <a href="https://www.kaggle.com/codywittenkeller/competitions">View My Kaggle Profile</a> 
+  <br><br>
+  <a href="https://opensea.io/collection/taste-experience">View my personal Art</a> 
+theme: jekyll-theme-minimal
